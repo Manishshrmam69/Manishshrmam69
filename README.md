@@ -17,13 +17,33 @@
 
 <br />
 
-
 ## 🌟 Projects Highlighted
 
 1. **ChatBot:** Node.js, JavaScript, OpenAI - AI-powered conversational bot.
 2. **Weather App:** JavaScript, API, CSS - Real-time weather updates.
 3. **Spotify Clone:** React, Node.js, API - Music streaming platform.
 4. **Health Management System:** Java, JDBC, MySQL - Patient and appointment management.
+
+## 🚀 Skills
+
+### 💻 Programming Languages
+- JavaScript, TypeScript, Java, Python
+
+### 🌐 Web Development
+- HTML5, CSS3, React.js, Node.js, Express.js
+
+### 🛠️ Tools & Technologies
+- Git, GitHub, Visual Studio Code, Postman, Docker
+
+### 📦 Database
+- MongoDB, MySQL, Supabase
+
+### ☁️ Cloud & AI
+- Azure AI, OpenAI, Firebase
+
+## 📄 Resume
+
+📥 **Download my Resume:** [Manish_Sharma_Resume.pdf](https://example.com/Manish_Sharma_Resume.pdf)
 
 ## 📞 Contact
 
@@ -33,7 +53,7 @@
 
 ## 🌐 Social Links
 
--  [LinkedIn](https://www.linkedin.com/in/manish-sharma-3065882ab)
+- [LinkedIn](https://www.linkedin.com/in/manish-sharma-3065882ab)
 - [GitHub](https://github.com/Manishshrmam69)
 
 ## 📄 License
@@ -43,5 +63,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 🚀 Project Link and Live Demo
- 🌐 **Live Demo:** [myprofile-ebon.vercel.app](https://myprofile-ebon.vercel.app)  
+
+🌐 **Live Demo:** [myprofile-ebon.vercel.app](https://myprofile-ebon.vercel.app)  
 **Thank you for visiting my portfolio! Feel free to connect with me for collaboration or job opportunities.**
