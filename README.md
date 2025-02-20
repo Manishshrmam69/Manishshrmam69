@@ -39,7 +39,7 @@
 - MongoDB, MySQL, Supabase
 
 ### ☁️ Cloud & AI
-- Azure AI, OpenAI, Firebase
+-  AI, OpenAI,google ,Basic salesforce 
 
 ## 📄 Resume
 
